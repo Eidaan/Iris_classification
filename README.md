@@ -16,3 +16,6 @@ It includes:
    ```bash
    git clone https://github.com/yourusername/iris-classification.git
    cd iris-classification
+
+## Live Demo
+Check out the live app here: [Iris Classifier](https://irisclassification-v1.streamlit.app/)
